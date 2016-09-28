@@ -1,0 +1,2 @@
+# truth
+school + code + life
